@@ -2,8 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/11747875/127963917-0cfaf52d-37c3-4f5b-9b19-95e4012b538e.jpg" alt="Logo">
 
-<details>
-  <summary> CODING PROJECTS </summary>
+
 
 <table>
 <colgroup>
@@ -39,6 +38,25 @@
 <td markdown="span">Final Project that included CRUD functionality. Users collect, sort, organize, and browse recipes; upload photos; and sort and retrieve recipes by name or ingredient type.</td>
 <td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"> <img src="https://user-images.githubusercontent.com/11747875/127972659-5e6e779e-3af6-4b1f-9542-a825ccc2e4d1.png" alt="Logo" class="chart-images"> <img src="https://user-images.githubusercontent.com/11747875/127972806-2809eead-6cd1-423b-802c-201c3cdc073e.png" alt="Logo" class="chart-images"></td>
 </tr>
+  </tbody>
+</table>
+  
+  <details>
+  <summary> MORE CODING PROJECTS </summary>
+  <table>
+<colgroup>
+<col width="30%" />
+<col width="40%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Project</th>
+<th>Description</th>
+<th>Technologies</th>
+</tr>
+</thead>
+<tbody>
   <tr>
 <td markdown="span">[Agents of Shield Directory](http://trrapp12.github.io/avengers_agents_of_shield_directory/)</td>
 <td markdown="span">Utilizes the concept of modules to create more readable and manageable code that applies DRY principles. Utilizes MVC/MVW architecture.  Creates three different controllers that receive user input and makes calls to model objects and the view to perform appropriate actions. Creates a module that uses ng-route and $routeProvider to direct the consumer to the appropriate urls and views. Uses $http to read a JSON object. Filters content using directives. Uses two-way data binding to make queries. Uses deep-linking to navigate through views. </td>
