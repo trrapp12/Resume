@@ -1,3 +1,84 @@
+
+
+<table>
+<colgroup>
+<col width="30%" />
+<col width="40%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Name and Link</th>
+<th>Description</th>
+<th>Technologies Used</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td markdown="span">[Sundae Worship](https://trrapp12.github.io/Sundae-Worship/)</td>
+<td markdown="span">A website that demonstrates HTLM5 CSS3 CSS Grid JavaScript NodeJS ExpressJS Git commits Github repository responsive design ADA compliance GDPR cookies GET and POST requests MVC </td>
+<td markdown="span">JavaScript, HTML5, CSS3, ExpressJS, NodeJS</td>
+</tr>
+  <tr>
+<td markdown="span">[UTIN-SLAA](https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/)</td>
+<td markdown="span">Free-lance work completed for local 501-3(c) </td>
+<td markdown="span">JavaScript,  ReactJS, HTML5, CSS3</td>
+</tr>
+  <tr>
+<td markdown="span">[Utah Dermagraphics](https://trrapp12.github.io/utahdermagraphics/)</td>
+<td markdown="span"> Free-lance work done to improve a local business owners website.</td>
+<td markdown="span">JavaScript, HTML5, CSS3</td>
+</tr>
+  <tr>
+<td markdown="span">[Recipe Organizer](http://trrapp12.github.io/recipe_organizer/)</td>
+<td markdown="span">V-School Final Project * Basic CRUD functionality allowing users to add, edit, and delete recipes. * It allows users to collect, sort, organize, and browse recipes. * It allows for photos to be uploaded. * It allows users to sort and retrieve recipes by name or by ingredient type. * It links to a few Pinterest sites for resources to other recipes</td>
+<td markdown="span">Django, SQLite, JavaScript, HTML5, CSS3, MVC</td>
+</tr>
+  <tr>
+<td markdown="span">[Agents of Shield Directory](http://trrapp12.github.io/avengers_agents_of_shield_directory/)</td>
+<td markdown="span">Utilizes the concept of modules to create more readable and manageable code that applies DRY principles. * Utilizes MVC/MVW architecture * Creates three different controllers that receive user input and makes calls to model objects and the view to perform appropriate actions. * Creates a module that uses ng-route and $routeProvider to direct the consumer to the appropriate urls and views. * Uses $http to read a JSON object. * Filters content using directives. * Uses two-way data binding to make queries. * Uses deep-linking to navigate through views. </td>
+<td markdown="span">JavasScript, CSS3, HTML5</td>
+</tr>
+  <tr>
+<td markdown="span">[Calculator](https://trrapp12.github.io/refactored-calculator/)</td>
+<td markdown="span">creates a HTML and JavaScript calculator. * Preforms math on multiple integers. * Handles operations from simple arithmatic to advanced functions like sin, cos, tan, √, ∛, π, a3. * functionality to switch between radian and degrees for all sin, cos, and tan equations. *  Classical set-up with GUI interface including a button with the equals sign, buttons for numbers 0-9, and buttons for the following operators (+, -, /, * , sin, cos, tan, √, ∛, π, a3 )</td>
+<td markdown="span">JavasScript, CSS3, HTML5</td>
+</tr>
+  <tr>
+<td markdown="span">[Slap-Happy](https://trrapp12.github.io/Slap-Happy/)</td>
+<td markdown="span">Demonstrates the correct use of functions, conditionals, loops, arrays.  * Properly sequences JavaScript statements. * Changes the DOM based on application state (win/loss, valid/invalid guess). * Selects a random word from a dictionary of words. * Displays all guesses on the user's screen so the user knows what letters he/she has already guessed. * Displays a visual indication for each letter in the word. * Displays the number of turns remaining. * Decrements the number of turns remaining. * Displays letters guessed in the position that they are contained in the word. * Includes a GitHub Repo url, containing an index.html, one or more CSS files, one or more JavaScript files (e.g. js/main.js) </td>
+<td markdown="span">JavasScript, CSS3, HTML5</td>
+</tr>
+  <tr>
+<td markdown="span">[KONAMI](https://trrapp12-ironyard.github.io/konami/)</td>
+<td markdown="span">basic keystroke listener which listens to keys pushed and displays them to the screen, but with a cool KONAMI easter-egg</td>
+<td markdown="span">JavaScript, HTML5, CSS3</td>
+</tr>
+  <tr>
+<td markdown="span">[wk-01-alpha](https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/)</td>
+<td markdown="span">a cool tribute to all things fast</td>
+<td markdown="span">JavaScript, HTML5, CSS3</td>
+</tr>
+  <tr>
+<td markdown="span">[Parallax Example](http://trrapp12.github.io/parallax-example/)</td>
+<td markdown="span">uses a parallax library to do some awesome interaction with mouse movement and parallax</td>
+<td markdown="span">Parallax, JavaScript, Photosho</td>
+</tr>
+  <tr>
+<td markdown="span">[CSS/JS Clock](https://trrapp12-ironyard.github.io/CSS_JS_clock/)</td>
+<td markdown="span">uses CSS and Javascript to get current time and convert it into an analog clock display with animation.</td>
+<td markdown="span">HTML5, JavaScript, CSS3</td>
+</tr>
+  <tr>
+<td markdown="span">[Flex-Box](https://trrapp12-ironyard.github.io/flex-box/)</td>
+<td markdown="span">simple demonstration of flex-box CSS.</td>
+<td markdown="span">HTML5, CSS3</td>
+</tr>
+</tbody>
+</table>
+  
+
+
 # Portfolio Links
 
 
@@ -279,82 +360,3 @@ window.dataLayer.push({
 ```
 </details>
 
-
-
-<table>
-<colgroup>
-<col width="30%" />
-<col width="40%" />
-<col width="30%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Name and Link</th>
-<th>Description</th>
-<th>Technologies Used</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">[Sundae Worship](https://trrapp12.github.io/Sundae-Worship/)</td>
-<td markdown="span">A website that demonstrates HTLM5 CSS3 CSS Grid JavaScript NodeJS ExpressJS Git commits Github repository responsive design ADA compliance GDPR cookies GET and POST requests MVC </td>
-<td markdown="span">JavaScript, HTML5, CSS3, ExpressJS, NodeJS</td>
-</tr>
-  <tr>
-<td markdown="span">[UTIN-SLAA](https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/)</td>
-<td markdown="span">Free-lance work completed for local 501-3(c) </td>
-<td markdown="span">JavaScript,  ReactJS, HTML5, CSS3</td>
-</tr>
-  <tr>
-<td markdown="span">[Utah Dermagraphics](https://trrapp12.github.io/utahdermagraphics/)</td>
-<td markdown="span"> Free-lance work done to improve a local business owners website.</td>
-<td markdown="span">JavaScript, HTML5, CSS3</td>
-</tr>
-  <tr>
-<td markdown="span">[Recipe Organizer](http://trrapp12.github.io/recipe_organizer/)</td>
-<td markdown="span">V-School Final Project * Basic CRUD functionality allowing users to add, edit, and delete recipes. * It allows users to collect, sort, organize, and browse recipes. * It allows for photos to be uploaded. * It allows users to sort and retrieve recipes by name or by ingredient type. * It links to a few Pinterest sites for resources to other recipes</td>
-<td markdown="span">Django, SQLite, JavaScript, HTML5, CSS3, MVC</td>
-</tr>
-  <tr>
-<td markdown="span">[Agents of Shield Directory](http://trrapp12.github.io/avengers_agents_of_shield_directory/)</td>
-<td markdown="span">Utilizes the concept of modules to create more readable and manageable code that applies DRY principles. * Utilizes MVC/MVW architecture * Creates three different controllers that receive user input and makes calls to model objects and the view to perform appropriate actions. * Creates a module that uses ng-route and $routeProvider to direct the consumer to the appropriate urls and views. * Uses $http to read a JSON object. * Filters content using directives. * Uses two-way data binding to make queries. * Uses deep-linking to navigate through views. </td>
-<td markdown="span">JavasScript, CSS3, HTML5</td>
-</tr>
-  <tr>
-<td markdown="span">[Calculator](https://trrapp12.github.io/refactored-calculator/)</td>
-<td markdown="span">creates a HTML and JavaScript calculator. * Preforms math on multiple integers. * Handles operations from simple arithmatic to advanced functions like sin, cos, tan, √, ∛, π, a3. * functionality to switch between radian and degrees for all sin, cos, and tan equations. *  Classical set-up with GUI interface including a button with the equals sign, buttons for numbers 0-9, and buttons for the following operators (+, -, /, * , sin, cos, tan, √, ∛, π, a3 )</td>
-<td markdown="span">JavasScript, CSS3, HTML5</td>
-</tr>
-  <tr>
-<td markdown="span">[Slap-Happy](https://trrapp12.github.io/Slap-Happy/)</td>
-<td markdown="span">Demonstrates the correct use of functions, conditionals, loops, arrays.  * Properly sequences JavaScript statements. * Changes the DOM based on application state (win/loss, valid/invalid guess). * Selects a random word from a dictionary of words. * Displays all guesses on the user's screen so the user knows what letters he/she has already guessed. * Displays a visual indication for each letter in the word. * Displays the number of turns remaining. * Decrements the number of turns remaining. * Displays letters guessed in the position that they are contained in the word. * Includes a GitHub Repo url, containing an index.html, one or more CSS files, one or more JavaScript files (e.g. js/main.js) </td>
-<td markdown="span">JavasScript, CSS3, HTML5</td>
-</tr>
-  <tr>
-<td markdown="span">[KONAMI](https://trrapp12-ironyard.github.io/konami/)</td>
-<td markdown="span">basic keystroke listener which listens to keys pushed and displays them to the screen, but with a cool KONAMI easter-egg</td>
-<td markdown="span">JavaScript, HTML5, CSS3</td>
-</tr>
-  <tr>
-<td markdown="span">[wk-01-alpha](https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/)</td>
-<td markdown="span">a cool tribute to all things fast</td>
-<td markdown="span">JavaScript, HTML5, CSS3</td>
-</tr>
-  <tr>
-<td markdown="span">[Parallax Example](http://trrapp12.github.io/parallax-example/)</td>
-<td markdown="span">uses a parallax library to do some awesome interaction with mouse movement and parallax</td>
-<td markdown="span">Parallax, JavaScript, Photosho</td>
-</tr>
-  <tr>
-<td markdown="span">[CSS/JS Clock](https://trrapp12-ironyard.github.io/CSS_JS_clock/)</td>
-<td markdown="span">uses CSS and Javascript to get current time and convert it into an analog clock display with animation.</td>
-<td markdown="span">HTML5, JavaScript, CSS3</td>
-</tr>
-  <tr>
-<td markdown="span">[Flex-Box](https://trrapp12-ironyard.github.io/flex-box/)</td>
-<td markdown="span">simple demonstration of flex-box CSS.</td>
-<td markdown="span">HTML5, CSS3</td>
-</tr>
-</tbody>
-</table>
-  
