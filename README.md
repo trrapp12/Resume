@@ -1,4 +1,4 @@
-<style>
+<style
   .chart-images {
     max-width: 70%;
     padding: 10px 2px 2px 2px;
