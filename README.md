@@ -144,7 +144,7 @@
 </code></pre>
 
 <details>
-  <summary>  <h3>MORE GTM SCRIPTING EXAMPLES</h3></summary>
+  <summary>  <p>MORE GTM SCRIPTING EXAMPLES</p></summary>
   
 
 <details>
@@ -405,7 +405,7 @@ window.dataLayer.push({
 
   <img src="https://user-images.githubusercontent.com/11747875/127980314-57abb4f7-22e1-4120-98a3-e4d59194f953.png" alt="Logo" class="regexr">
   
-  <h3>REGEX EXAMPLES</h3>
+  <h3>REGEX PATTERNS I BUILT</h3>
 <br/>
  <p>Capturing a country and language code from a url</p>
  <pre><code> /\/[a-z]{2}_[A-Z]{2}\//g </code></pre>
