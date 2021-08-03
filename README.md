@@ -33,7 +33,7 @@
   <tr>
 <td markdown="span">[Recipe Organizer](http://trrapp12.github.io/recipe_organizer/)</td>
 <td markdown="span">Final Project that included CRUD functionality. Users collect, sort, organize, and browse recipes; upload photos; and sort and retrieve recipes by name or ingredient type.</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"> <ul><li>Django</li></ul> <ul><li>SQLite</li></ul></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"> <img src="https://user-images.githubusercontent.com/11747875/127972659-5e6e779e-3af6-4b1f-9542-a825ccc2e4d1.png" alt="Logo"> <ul><li>SQLite</li></ul></td>
 </tr>
   <tr>
 <td markdown="span">[Agents of Shield Directory](http://trrapp12.github.io/avengers_agents_of_shield_directory/)</td>
