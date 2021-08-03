@@ -297,13 +297,15 @@ window.dataLayer.push({
 
 <table>
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="20%" />
+<col width="60%" />
+  <col width="20%" />
 </colgroup>
 <thead>
 <tr class="header">
-<th>Field</th>
+<th>Name and Link</th>
 <th>Description</th>
+<th>Technologies Used</th>
 </tr>
 </thead>
 <tbody>
