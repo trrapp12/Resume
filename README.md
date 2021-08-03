@@ -1,11 +1,4 @@
-
-
-<style> 
-  .chart-images {
-    max-width: 70%;
-    padding: 10px 2px 2px 2px;
-  }
-</style>
+<link href="style.css" type="text/css" rel="stylesheet"/>
 
 <img src="https://user-images.githubusercontent.com/11747875/127963917-0cfaf52d-37c3-4f5b-9b19-95e4012b538e.jpg" alt="Logo">
 
