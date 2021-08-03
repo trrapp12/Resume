@@ -23,7 +23,7 @@
   <tr>
 <td markdown="span">[UTIN-SLAA](https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/)</td>
 <td markdown="span">Free-lance work completed for local 501-3(c) </td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"> <ul><li>ReactJS</li></ul></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"><img src="https://user-images.githubusercontent.com/11747875/127972521-629a523c-ec4e-4f8f-ae14-297a987093e9.png" alt="Logo"> </td>
 </tr>
   <tr>
 <td markdown="span">[Utah Dermagraphics](https://trrapp12.github.io/utahdermagraphics/)</td>
