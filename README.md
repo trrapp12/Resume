@@ -83,7 +83,7 @@
 
 # Google Tag Manager Code Examples
 
-
+<img src="https://user-images.githubusercontent.com/11747875/127969005-e786be85-e244-4ab4-8e6d-ca1c2d5446dc.png" alt="Logo">
 Current Code Examples working with GTM: 
 <br/><br/>
 <details>
