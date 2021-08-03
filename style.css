@@ -2,3 +2,9 @@
     max-width: 80%;
     padding: 10px 2px 2px 2px;
 }
+
+.gtm {
+    width: 70%;
+    margin: auto;
+    display: block;
+}
