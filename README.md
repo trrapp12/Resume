@@ -344,7 +344,7 @@ window.dataLayer.push({
     var newName = eventName.match(firstWord).toString();
     var newNameCap = newName.charAt(0).toUpperCase() + newName.slice(1)
     array.push(newNameCap);
-  }
+  } 
   function pushSubsequentWords () {
     array.push(eventName.match(subsequentWords).toString());
   }
