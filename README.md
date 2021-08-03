@@ -77,6 +77,8 @@
 </tbody>
 </table>
   
+  <i class="fas fa-circle"></i>
+
 
 
 # Portfolio Links
