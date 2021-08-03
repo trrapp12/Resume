@@ -312,27 +312,7 @@ window.dataLayer.push({
 <tr>
 <td markdown="span">[Sundae Worship](https://trrapp12.github.io/Sundae-Worship/)</td>
 <td markdown="span">A website that demonstrates HTLM5 CSS3 CSS Grid JavaScript NodeJS ExpressJS Git commits Github repository responsive design ADA compliance GDPR cookies GET and POST requests MVC </td>
-<td markdown="span">
-  <ul id="profileTabs" class="nav nav-tabs">
-    <li class="active"><a href="#profile" data-toggle="tab">Profile</a></li>
-    <li><a href="#about" data-toggle="tab">About</a></li>
-    <li><a href="#match" data-toggle="tab">Match</a></li>
-</ul>
-  <div class="tab-content">
-<div role="tabpanel" class="tab-pane active" id="profile">
-    <h2>Profile</h2>
-<p>Praesent sit amet fermentum leo....</p>
-</div>
-
-<div role="tabpanel" class="tab-pane" id="about">
-    <h2>About</h2>
-    <p>Lorem ipsum ...</p></div>
-
-<div role="tabpanel" class="tab-pane" id="match">
-    <h2>Match</h2>
-    <p>Vel vehicula ....</p>
-</div>
-</div></td>
+<td markdown="span"></td>
 </tr>
   <tr>
 <td markdown="span">[UTIN-SLAA](https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/)</td>
@@ -391,3 +371,24 @@ window.dataLayer.push({
 </tr>
 </tbody>
 </table>
+  
+  <ul id="profileTabs" class="nav nav-tabs">
+    <li class="active"><a href="#profile" data-toggle="tab">Profile</a></li>
+    <li><a href="#about" data-toggle="tab">About</a></li>
+    <li><a href="#match" data-toggle="tab">Match</a></li>
+</ul>
+  <div class="tab-content">
+<div role="tabpanel" class="tab-pane active" id="profile">
+    <h2>Profile</h2>
+<p>Praesent sit amet fermentum leo....</p>
+</div>
+
+<div role="tabpanel" class="tab-pane" id="about">
+    <h2>About</h2>
+    <p>Lorem ipsum ...</p></div>
+
+<div role="tabpanel" class="tab-pane" id="match">
+    <h2>Match</h2>
+    <p>Vel vehicula ....</p>
+</div>
+</div>
