@@ -23,7 +23,7 @@
   <tr>
 <td markdown="span">[UTIN-SLAA](https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/)</td>
 <td markdown="span">Free-lance work completed for local 501-3(c) </td>
-<td><ul><li>HTML5</li></ul> <ul><li>CSS3</li></ul> <ul><li>JavaScript</li></ul> <ul><li>ReactJS</li></ul></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"> <ul><li>ReactJS</li></ul></td>
 </tr>
   <tr>
 <td markdown="span">[Utah Dermagraphics](https://trrapp12.github.io/utahdermagraphics/)</td>
@@ -33,7 +33,7 @@
   <tr>
 <td markdown="span">[Recipe Organizer](http://trrapp12.github.io/recipe_organizer/)</td>
 <td markdown="span">Final Project that included CRUD functionality. Users collect, sort, organize, and browse recipes; upload photos; and sort and retrieve recipes by name or ingredient type.</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"> <ul><li>MVC</li></ul> <ul><li>Django</li></ul> <ul><li>SQLite</li></ul></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"> <ul><li>Django</li></ul> <ul><li>SQLite</li></ul></td>
 </tr>
   <tr>
 <td markdown="span">[Agents of Shield Directory](http://trrapp12.github.io/avengers_agents_of_shield_directory/)</td>
@@ -63,7 +63,7 @@
   <tr>
 <td markdown="span">[Parallax Example](http://trrapp12.github.io/parallax-example/)</td>
 <td markdown="span">Integrates a parallax library to do some awesome interaction with mouse movement and parallax</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"> <ul><li>Parralax</li></ul> <ul><li>Photoshop</li></ul></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"> <ul><li>Photoshop</li></ul></td>
 </tr>
   <tr>
 <td markdown="span">[CSS/JS Clock](https://trrapp12-ironyard.github.io/CSS_JS_clock/)</td>
