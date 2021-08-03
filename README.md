@@ -42,7 +42,7 @@
 </table>
   
   <details>
-  <summary> ###MORE CODING PROJECTS </summary>
+  <summary> ### MORE CODING PROJECTS </summary>
   <table>
 <colgroup>
 <col width="30%" />
@@ -142,7 +142,7 @@
 </code></pre>
 
 <details>
-  <summary>###MORE GTM SCRIPTING EXAMPLES</summary>
+  <summary>### MORE GTM SCRIPTING EXAMPLES</summary>
   
 
 <details>
@@ -403,7 +403,7 @@ window.dataLayer.push({
 
   <img src="https://user-images.githubusercontent.com/11747875/127980314-57abb4f7-22e1-4120-98a3-e4d59194f953.png" alt="Logo" class="regexr">
   
-  ###REGEX EXAMPLES
+  ### REGEX EXAMPLES
 <br/>
  <p>Capturing a country and language code from a url</p>
  <pre><code> /\/[a-z]{2}_[A-Z]{2}\//g </code></pre>
