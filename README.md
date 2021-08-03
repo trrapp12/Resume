@@ -1,11 +1,3 @@
-<head>
-  <link
-  rel="stylesheet"
-  href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/prism.min.js"
-/>
-
-</head>
-
 <img src="https://user-images.githubusercontent.com/11747875/127963917-0cfaf52d-37c3-4f5b-9b19-95e4012b538e.jpg" alt="Logo">
 
 
@@ -98,7 +90,7 @@ Current Code Examples working with GTM:
   
   <summary> JavaScript to write dynamic HTML script tag </summary>
 
-<pre><code class="javascript">
+<pre><code class="language-javascript">
 (function () {
   // define function
   function addScript() {
