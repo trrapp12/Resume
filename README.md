@@ -401,3 +401,11 @@ window.dataLayer.push({
   
   </details>
 
+  <img src="https://user-images.githubusercontent.com/11747875/127980314-57abb4f7-22e1-4120-98a3-e4d59194f953.png" alt="Logo" class="gtm">
+  
+  <p>REGEX EXAMPLES</p>
+  
+  <pre><code> /\/[a-z]{2}_[A-Z]{2}\//g </code></pre>
+  <pre><code> /.*\/(you)$/ </code></pre>
+  <pre><code> /(^[a-z]{1,})/g </code></pre>
+  <pre><code> [0-9]{8} </code></pre>
