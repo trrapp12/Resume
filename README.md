@@ -311,8 +311,8 @@ window.dataLayer.push({
 <tbody>
 <tr>
 <td markdown="span">[Sundae Worship](https://trrapp12.github.io/Sundae-Worship/)</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
-<td markdown="span">The column **stuff**</td>
+<td markdown="span">A website that demonstrates *HTLM5 * CSS3 * CSS Grid * JavaScript * NodeJS * ExpressJS * Git commits * Github repository * responsive design * ADA compliant * GDPR cookies * GET and POST requests * MVC </td>
+<td markdown="span">JavaScript, HTML5, CSS3, ExpressJS, NodeJS</td>
 </tr>
   <tr>
 <td markdown="span">[UTIN-SLAA](https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/)</td>
