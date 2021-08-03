@@ -42,7 +42,7 @@
 </table>
   
   <details>
-  <summary> <p>MORE CODING PROJECTS<p> </summary>
+  <summary> MORE CODING PROJECTS </summary>
   <table>
 <colgroup>
 <col width="30%" />
