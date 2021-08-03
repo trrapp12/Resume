@@ -14,3 +14,9 @@
     margin: 115px auto 115px auto;
     display: block;
 }
+
+.center {
+    display: block; 
+    width: 50%; 
+    margin: auto;
+}
