@@ -401,11 +401,19 @@ window.dataLayer.push({
   
   </details>
 
-  <img src="https://user-images.githubusercontent.com/11747875/127980314-57abb4f7-22e1-4120-98a3-e4d59194f953.png" alt="Logo" class="gtm">
+  <img src="https://user-images.githubusercontent.com/11747875/127980314-57abb4f7-22e1-4120-98a3-e4d59194f953.png" alt="Logo" class="regexr">
   
   <p>REGEX EXAMPLES</p>
-  
-  <pre><code> /\/[a-z]{2}_[A-Z]{2}\//g </code></pre>
-  <pre><code> /.*\/(you)$/ </code></pre>
-  <pre><code> /(^[a-z]{1,})/g </code></pre>
-  <pre><code> [0-9]{8} </code></pre>
+ </br>
+ <p>Capturing a country and language code from a url</p>
+ </br>
+ <pre><code> /\/[a-z]{2}_[A-Z]{2}\//g </code></pre>
+ <p>capturing any url that ends in "you"</p>
+ </br>
+ <pre><code> /.*\/(you)$/ </code></pre>
+ <p>capturing the first word of any camel cased word</p>
+ </br>
+ <pre><code> /(^[a-z]{1,})/g </code></pre>
+ <p>capturing the product id from a url</p>
+ </br>
+ <pre><code> [0-9]{8} </code></pre>
