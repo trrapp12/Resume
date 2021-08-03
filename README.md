@@ -2,6 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/11747875/127963917-0cfaf52d-37c3-4f5b-9b19-95e4012b538e.jpg" alt="Logo">
 
+<details>
+  <summary> CODING PROJECTS </summary>
 
 <table>
 <colgroup>
@@ -80,13 +82,15 @@
 </tbody>
 </table>
   
-
-
-
+</details>
+<br/><br/>
 
 
 <img src="https://user-images.githubusercontent.com/11747875/127969005-e786be85-e244-4ab4-8e6d-ca1c2d5446dc.png" alt="Logo" style="width: 100%">
 
+<details>
+  <summary>GTM Scripting and Function Examples</summary>
+  
 <details>
   
   <summary> JavaScript to write dynamic HTML script tag </summary>
@@ -379,4 +383,6 @@ window.dataLayer.push({
 </code></pre>
                                               
 </details>
+  
+  </details>
 
