@@ -317,7 +317,7 @@ window.dataLayer.push({
   <tr>
 <td markdown="span">[UTIN-SLAA](https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/)</td>
 <td markdown="span">free-lance work completed for local 501-3(c) </td>
-<td markdown="span"><i class="fa fa-js-square"></i> JavaScript, <i class="fa fa-check-square-o"></i> ReactJS, HTML5, CSS3</td>
+<td markdown="span"><span class="label label-default">Default</span> JavaScript,  ReactJS, HTML5, CSS3</td>
 </tr>
   <tr>
 <td markdown="span">[Utah Dermagraphics](https://trrapp12.github.io/utahdermagraphics/)</td>
