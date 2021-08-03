@@ -42,7 +42,7 @@
 </table>
   
   <details>
-  <summary> MORE CODING PROJECTS </summary>
+  <summary class="center"> MORE CODING PROJECTS </summary>
   <table>
 <colgroup>
 <col width="30%" />
@@ -144,7 +144,7 @@
 </code></pre>
 
 <details>
-  <summary>  <p>MORE GTM SCRIPTING EXAMPLES</p></summary>
+  <summary class="center">  <p>MORE GTM SCRIPTING EXAMPLES</p></summary>
   
 
 <details>
