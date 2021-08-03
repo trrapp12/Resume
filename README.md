@@ -174,6 +174,7 @@ Current Code Examples working with GTM:
   <summary>Button Click Event Listener that functions even through a shadowRoot </summary>
 
 ```javascript 
+  
 (function () {
   //create node array of buttons
   var buttons = document.querySelectorAll("[data-buttonNumber]");
