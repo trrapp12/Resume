@@ -1,22 +1,5 @@
 
 
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <title>A Basic HTML5 Template</title>
-  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-
-</head>
-
-<body>
-  <!-- your content here... -->
-    <i class="fas fa-circle"></i>
-
-</body>
-</html>
-
 <table>
 <colgroup>
 <col width="30%" />
@@ -34,7 +17,7 @@
 <tr>
 <td markdown="span">[Sundae Worship](https://trrapp12.github.io/Sundae-Worship/)</td>
 <td markdown="span">A website that demonstrates HTLM5 CSS3 CSS Grid JavaScript NodeJS ExpressJS Git commits Github repository responsive design ADA compliance GDPR cookies GET and POST requests MVC </td>
-<td markdown="span">JavaScript, HTML5, CSS3, ExpressJS, NodeJS</td>
+<td markdown="span">JavaScript <i class="fas fa-circle"></i><i class="fas fa-circle"></i><i class="fas fa-circle"></i>, HTML5, CSS3, ExpressJS, NodeJS</td>
 </tr>
   <tr>
 <td markdown="span">[UTIN-SLAA](https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/)</td>
