@@ -9,9 +9,9 @@
 </colgroup>
 <thead>
 <tr class="header">
-<th>Name and Link</th>
+<th>Project</th>
 <th>Description</th>
-<th>Technologies Used</th>
+<th>Technologies</th>
 </tr>
 </thead>
 <tbody>
