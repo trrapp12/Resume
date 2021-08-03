@@ -72,7 +72,7 @@
   <tr>
 <td markdown="span">[Flex-Box](https://trrapp12-ironyard.github.io/flex-box/)</td>
 <td markdown="span">simple demonstration of flex-box CSS.</td>
-<td markdown="span">HTML5, CSS3</td>
+<td><ul><li>HTML5</li></ul>  <ul><li>CSS3</li></ul></td>
 </tr>
 </tbody>
 </table>
