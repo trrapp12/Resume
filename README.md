@@ -311,7 +311,7 @@ window.dataLayer.push({
 <tbody>
 <tr>
 <td markdown="span">[Sundae Worship](https://trrapp12.github.io/Sundae-Worship/)</td>
-<td markdown="span">A website that demonstrates *HTLM5 * CSS3 * CSS Grid * JavaScript * NodeJS * ExpressJS * Git commits * Github repository * responsive design * ADA compliant * GDPR cookies * GET and POST requests * MVC </td>
+<td markdown="span">A website that demonstrates <ul><li>HTLM5</li></ul> <ul><li>CSS3</li></ul> <ul><li>CSS Grid</li></ul> <ul><li>JavaScript</li></ul> <ul><li>NodeJS</li></ul> <ul><li>ExpressJS</li></ul> <ul><li>Git commits</li></ul> <ul><li>Github repository</li></ul> <ul><li>responsive design</li></ul> <ul><li>ADA compliance</li></ul> <ul><li>GDPR cookies</li></ul> <ul><li>GET and POST requests</li></ul> <ul><li>MVC</li></ul> </td>
 <td markdown="span">JavaScript, HTML5, CSS3, ExpressJS, NodeJS</td>
 </tr>
   <tr>
