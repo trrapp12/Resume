@@ -121,6 +121,7 @@ Current Code Examples working with GTM:
   }
 })()
 ```
+  
 </details>
 
 <details>
