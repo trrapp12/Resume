@@ -17,11 +17,11 @@
 <tr>
 <td markdown="span">[Sundae Worship](https://trrapp12.github.io/Sundae-Worship/)</td>
 <td markdown="span">A website that demonstrates HTLM5 CSS3 CSS Grid JavaScript NodeJS ExpressJS Git commits Github repository responsive design ADA compliance GDPR cookies GET and POST requests MVC </td>
-  <td markdown="span"> - HTML5
-    - CSS3
-    - JavaScript
-    - ExpressJS
-    - NodeJS
+  <td markdown="span"> * HTML5
+    * CSS3
+    * JavaScript
+    * ExpressJS
+    * NodeJS
   </td>
 </tr>
   <tr>
