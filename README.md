@@ -297,9 +297,9 @@ window.dataLayer.push({
 
 <table>
 <colgroup>
-<col width="20%" />
-<col width="60%" />
-<col width="20%" />
+<col width="30%" />
+<col width="40%" />
+<col width="30%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -310,6 +310,61 @@ window.dataLayer.push({
 </thead>
 <tbody>
 <tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">The column **stuff**</td>
+</tr>
+  <tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">The column **stuff**</td>
+</tr>
+  <tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">The column **stuff**</td>
+</tr>
+  <tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">The column **stuff**</td>
+</tr>
+  <tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">The column **stuff**</td>
+</tr>
+  <tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">The column **stuff**</td>
+</tr>
+  <tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">The column **stuff**</td>
+</tr>
+  <tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">The column **stuff**</td>
+</tr>
+  <tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">The column **stuff**</td>
+</tr>
+  <tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">The column **stuff**</td>
+</tr>
+  <tr>
+<td markdown="span">First column **fields**</td>
+<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">The column **stuff**</td>
+</tr>
+  <tr>
 <td markdown="span">First column **fields**</td>
 <td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
 <td markdown="span">The column **stuff**</td>
