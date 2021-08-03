@@ -63,7 +63,7 @@
   <tr>
 <td markdown="span">[Parallax Example](http://trrapp12.github.io/parallax-example/)</td>
 <td markdown="span">Integrates a parallax library to do some awesome interaction with mouse movement and parallax</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"> <ul><li>Photoshop</li></ul></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"> <img src="https://user-images.githubusercontent.com/11747875/127972842-24ec0f78-324a-463b-8b9d-348a75a78568.png" alt="Logo"></td>
 </tr>
   <tr>
 <td markdown="span">[CSS/JS Clock](https://trrapp12-ironyard.github.io/CSS_JS_clock/)</td>
