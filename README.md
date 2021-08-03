@@ -42,7 +42,7 @@
 </table>
   
   <details>
-  <summary> <h3>MORE CODING PROJECTS</h3> </summary>
+  <summary> <p>MORE CODING PROJECTS<p> </summary>
   <table>
 <colgroup>
 <col width="30%" />
@@ -106,6 +106,8 @@
 
 <img src="https://user-images.githubusercontent.com/11747875/127969005-e786be85-e244-4ab4-8e6d-ca1c2d5446dc.png" alt="Logo" class="gtm">
 
+<h3>EXAMPLE SCRIPTS AND FUNCTIONS I BUILT IN GOOGLE TAG MANAGER</h3>
+<br/>
 <p>JavaScript to write dynamic HTML script tag</p>
 
 <pre><code class="language-javascript">
