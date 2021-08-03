@@ -17,22 +17,22 @@
 <tr>
 <td markdown="span">[Sundae Worship](https://trrapp12.github.io/Sundae-Worship/)</td>
 <td markdown="span">A website that demonstrates HTLM5 CSS3 CSS Grid JavaScript NodeJS ExpressJS Git commits Github repository responsive design ADA compliance GDPR cookies GET and POST requests MVC </td>
-  <td markdown="span"><ul><li>JavaScript</li></ul><ul><li>HTML5</li></ul> <ul><li>CSS3</li></ul> <ul><li>ExpressJS</li></ul> <ul><li>NodeJS</li></ul></td>
+  <td markdown="span"><ul><li>HTML5</li></ul><ul><li>CSS3</li></ul><ul><li>JavaScript</li></ul>  <ul><li>ExpressJS</li></ul> <ul><li>NodeJS</li></ul></td>
 </tr>
   <tr>
 <td markdown="span">[UTIN-SLAA](https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/)</td>
 <td markdown="span">Free-lance work completed for local 501-3(c) </td>
-<td markdown="span">JavaScript,  ReactJS, HTML5, CSS3</td>
+<td markdown="span"><ul><li>HTML5</li></ul> <ul><li>CSS3</li></ul> <ul><li>JavaScript</li></ul> <ul><li>ReactJS</li></ul></td>
 </tr>
   <tr>
 <td markdown="span">[Utah Dermagraphics](https://trrapp12.github.io/utahdermagraphics/)</td>
 <td markdown="span"> Free-lance work done to improve a local business owners website.</td>
-<td markdown="span">JavaScript, HTML5, CSS3</td>
+<td markdown="span"><ul><li>HTML5</li></ul> <ul><li>CSS3</li></ul> <ul><li>JavaScript</li></ul></td>
 </tr>
   <tr>
 <td markdown="span">[Recipe Organizer](http://trrapp12.github.io/recipe_organizer/)</td>
 <td markdown="span">V-School Final Project * Basic CRUD functionality allowing users to add, edit, and delete recipes. * It allows users to collect, sort, organize, and browse recipes. * It allows for photos to be uploaded. * It allows users to sort and retrieve recipes by name or by ingredient type. * It links to a few Pinterest sites for resources to other recipes</td>
-<td markdown="span">Django, SQLite, JavaScript, HTML5, CSS3, MVC</td>
+<td markdown="span"><ul><li>HTML5</li></ul> <ul><li>CSS3</li></ul> <ul><li>JavaScript</li></ul> <ul><li>MVC</li></ul> <ul><li>Django</li></ul> <ul><li>SQLite</li></ul></td>
 </tr>
   <tr>
 <td markdown="span">[Agents of Shield Directory](http://trrapp12.github.io/avengers_agents_of_shield_directory/)</td>
