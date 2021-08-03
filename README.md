@@ -129,7 +129,7 @@ Current Code Examples working with GTM:
   
   <summary>JavaScript to scrape dataLayer for an "orderUpdated" Event, then retrieve the amount</summary>
   
-  ```javascript
+<pre><code class="language-javascript">
   function () {
   var a = window.dataLayer; 
   var b = [];
@@ -141,7 +141,7 @@ Current Code Examples working with GTM:
   var c = b.pop();
   return c[0]["orderTotals"].pointsUsed;
 }
-```
+</code></pre>
                          
 </details>
 
@@ -149,7 +149,7 @@ Current Code Examples working with GTM:
   
   <summary>JavaScript "Normalizer" (takes the action from a GTM tag and normalizes the capitalization)</summary>
   
-  ```javascript
+<pre><code class="language-javascript">
   function () {
   if(window.google_tag_manager["GTM-TWJS4J3"]) {
     var a = window.google_tag_manager["GTM-TWJS4J3"].dataLayer.get("context");
@@ -171,7 +171,7 @@ Current Code Examples working with GTM:
     console.log("neither 'GTM-TWJS4J3' nor 'GTM-5RNZGHC' buckets detected")
   }
 }
-```
+</code></pre>
   
 </details>
 
@@ -179,7 +179,7 @@ Current Code Examples working with GTM:
   
   <summary>Button Click Event Listener that functions even through a shadowRoot </summary>
 
-```javascript 
+<pre><code class="language-javascript">
 (function () {
   //create node array of buttons
   var buttons = document.querySelectorAll("[data-buttonNumber]");
@@ -199,7 +199,7 @@ Current Code Examples working with GTM:
     });
   }
 })();
-```
+</code></pre>
                                  
 </details>
 
@@ -207,11 +207,11 @@ Current Code Examples working with GTM:
   
   <summary>IFFE statement that logs user tier into Local Storage </summary>
   
-  ```javascript
+<pre><code class="language-javascript">
   (function() {
     return JSON.parse(JSON.parse(JSON.stringify(localStorage.loyaltyData))).userTier.name
   })();
-  ```
+</code></pre>
   
 </details>
 
@@ -219,7 +219,7 @@ Current Code Examples working with GTM:
   
   <summary>Listener to check if radio is checked</summary>
   
-  ```javascript 
+<pre><code class="language-javascript">
 (function (){
 
   var parent = document.getElementsByClassName('create-invite-radio-group');
@@ -256,7 +256,7 @@ Current Code Examples working with GTM:
   })
 
 })()
-```
+</code></pre>
   
 </details>
 
@@ -264,7 +264,7 @@ Current Code Examples working with GTM:
   
   <summary>Listener to Get Elapsed Time</summary>
   
-  ```javascript 
+<pre><code class="language-javascript">
 (function () {
 var startTime = new Date().getTime();
 var paymentSection = document.getElementById('checkout-edit-payment');
@@ -323,7 +323,7 @@ window.dataLayer.push({
 }
 });
 })();
-```
+</code></pre>
   
 </details>
 
@@ -331,7 +331,7 @@ window.dataLayer.push({
   
   <summary>Dynamically detect country code in url to determine which external ID entry to pull from local Storage</summary>
   
-  ```javascript
+<pre><code class="language-javascript">
   (function () {
   var url = window.location.href;
   var countryCodeRegEx = /[a-z]{2}_[A-Z]{2}/ ;
@@ -341,7 +341,7 @@ window.dataLayer.push({
   var a = JSON.parse(window.localStorage[localStorageCountry]);
   return a[0].externalId; 
 })()
-```
+</code></pre>
   
 </details>
 
@@ -349,7 +349,7 @@ window.dataLayer.push({
   
   <summary>IFFE to change camelCase to TitleCase</summary>
   
-  ```javascript
+<pre><code class="language-javascript">
   (function () {
   // var eventName = {{Event}};
   var eventName = "skinConsult"
@@ -375,7 +375,7 @@ window.dataLayer.push({
   concatPhrase();
 
 })();
-```
+</code></pre>
                                               
 </details>
 
