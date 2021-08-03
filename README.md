@@ -1,4 +1,4 @@
-
+<link href="style. css" rel="stylesheet"></link> 
 
 <img src="https://user-images.githubusercontent.com/11747875/127963917-0cfaf52d-37c3-4f5b-9b19-95e4012b538e.jpg" alt="Logo">
 
@@ -40,7 +40,7 @@
   <tr>
 <td markdown="span">[Agents of Shield Directory](http://trrapp12.github.io/avengers_agents_of_shield_directory/)</td>
 <td markdown="span">Utilizes the concept of modules to create more readable and manageable code that applies DRY principles. Utilizes MVC/MVW architecture.  Creates three different controllers that receive user input and makes calls to model objects and the view to perform appropriate actions. Creates a module that uses ng-route and $routeProvider to direct the consumer to the appropriate urls and views. Uses $http to read a JSON object. Filters content using directives. Uses two-way data binding to make queries. Uses deep-linking to navigate through views. </td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></ul></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
 <td markdown="span">[Calculator](https://trrapp12.github.io/refactored-calculator/)</td>
