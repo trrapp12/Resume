@@ -108,7 +108,7 @@
 
 <h3>EXAMPLE SCRIPTS AND FUNCTIONS I BUILT IN GOOGLE TAG MANAGER</h3>
 <br/>
-<p>JavaScript to write dynamic HTML script tag</p>
+<p>JavaScript IFFE dynamically writes HTML script tag</p>
 
 <pre><code class="language-javascript">
 (function () {
@@ -149,7 +149,7 @@
 
 <details>
   
-  <summary>JavaScript to scrape dataLayer for an "orderUpdated" Event, then retrieve the amount</summary>
+  <summary>Function scrapes dataLayer for "orderUpdated" Event, then retrieves the amount</summary>
   
 <pre><code class="language-javascript">
   function () {
@@ -169,7 +169,7 @@
 <br/>
 <details>
   
-  <summary>JavaScript "Normalizer" (takes the action from a GTM tag and normalizes the capitalization)</summary>
+  <summary>Function normalizes the output to sentence case</summary>
   
 <pre><code class="language-javascript">
   function () {
@@ -199,7 +199,7 @@
 <br/>
 <details>
   
-  <summary>Button Click Event Listener that functions even through a shadowRoot </summary>
+  <summary>Function creates "Click" Event Listener that persists through a shadowRoot </summary>
 
 <pre><code class="language-javascript">
 (function () {
@@ -227,7 +227,7 @@
 <br/>
 <details>
   
-  <summary>IFFE statement that logs user tier into Local Storage </summary>
+  <summary>Function logs user tier into Local Storage </summary>
   
 <pre><code class="language-javascript">
   (function() {
@@ -239,7 +239,7 @@
 <br/>
 <details>
   
-  <summary>Listener to check if radio is checked</summary>
+  <summary>Event Listener does dataLayer push if radio button checked</summary>
   
 <pre><code class="language-javascript">
 (function (){
@@ -284,7 +284,7 @@
 <br/>
 <details>
   
-  <summary>Listener to Get Elapsed Time</summary>
+  <summary>Event Listener gets Elapsed Time</summary>
   
 <pre><code class="language-javascript">
 (function () {
@@ -351,7 +351,7 @@ window.dataLayer.push({
 <br/>
 <details>
   
-  <summary>Dynamically detect country code in url to determine which external ID entry to pull from local Storage</summary>
+  <summary>Function dynamically detects country code in url to determine which external ID entry to pull from local Storage</summary>
   
 <pre><code class="language-javascript">
   (function () {
