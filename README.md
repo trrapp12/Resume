@@ -89,7 +89,7 @@ Current Code Examples working with GTM:
   
   <summary> JavaScript to write dynamic HTML script tag </summary>
 
-<pre><code>
+<pre><code class="javascript">
 (function () {
   // define function
   function addScript() {
