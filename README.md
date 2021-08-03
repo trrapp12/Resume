@@ -418,6 +418,6 @@ window.dataLayer.push({
   <br/>
  <p>capturing the product id from a url</p>
  <pre><code> [0-9]{8} </code></pre>
-    <br/>
+<br/>
  <p>capturing and EU country from a url</p>
   <pre><code>.*\/\w{2}\_(AT|BE|CZ|DK|FI|FR|GB|DE|HU|IE|IT|LU|NL|PL|PT|RO|SK|ES|SE)\/.*</code></pre>
