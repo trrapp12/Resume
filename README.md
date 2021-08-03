@@ -150,7 +150,6 @@ Current Code Examples working with GTM:
   <summary>JavaScript "Normalizer" (takes the action from a GTM tag and normalizes the capitalization)</summary>
   
   ```javascript
-  
   function () {
   if(window.google_tag_manager["GTM-TWJS4J3"]) {
     var a = window.google_tag_manager["GTM-TWJS4J3"].dataLayer.get("context");
@@ -181,7 +180,6 @@ Current Code Examples working with GTM:
   <summary>Button Click Event Listener that functions even through a shadowRoot </summary>
 
 ```javascript 
-  
 (function () {
   //create node array of buttons
   var buttons = document.querySelectorAll("[data-buttonNumber]");
@@ -210,7 +208,6 @@ Current Code Examples working with GTM:
   <summary>IFFE statement that logs user tier into Local Storage </summary>
   
   ```javascript
-  
   (function() {
     return JSON.parse(JSON.parse(JSON.stringify(localStorage.loyaltyData))).userTier.name
   })();
@@ -223,7 +220,6 @@ Current Code Examples working with GTM:
   <summary>Listener to check if radio is checked</summary>
   
   ```javascript 
-  
 (function (){
 
   var parent = document.getElementsByClassName('create-invite-radio-group');
@@ -269,7 +265,6 @@ Current Code Examples working with GTM:
   <summary>Listener to Get Elapsed Time</summary>
   
   ```javascript 
-  
 (function () {
 var startTime = new Date().getTime();
 var paymentSection = document.getElementById('checkout-edit-payment');
@@ -337,7 +332,6 @@ window.dataLayer.push({
   <summary>Dynamically detect country code in url to determine which external ID entry to pull from local Storage</summary>
   
   ```javascript
-  
   (function () {
   var url = window.location.href;
   var countryCodeRegEx = /[a-z]{2}_[A-Z]{2}/ ;
@@ -356,7 +350,6 @@ window.dataLayer.push({
   <summary>IFFE to change camelCase to TitleCase</summary>
   
   ```javascript
-  
   (function () {
   // var eventName = {{Event}};
   var eventName = "skinConsult"
