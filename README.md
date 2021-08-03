@@ -42,7 +42,7 @@
 </tr>
   <tr>
 <td markdown="span">[Calculator](https://trrapp12.github.io/refactored-calculator/)</td>
-<td markdown="span">HTML and JavaScript calculator which preforms math on multiple integers; preforms simple arithmatic to advanced functions like sin, cos, tan, √, ∛, π, a3.  Switches between radian and degrees for all sin, cos, and tan equations. Classical GUI interface including a buttons for the equals sign, numbers 0-9, and the following operators (+, -, /, * , sin, cos, tan, √, ∛, π, a3 )</td>
+<td markdown="span">Calculator which preforms math on multiple integers; preforms simple arithmatic to advanced functions like sin, cos, tan, √, ∛, π, a3.  Switches between radian and degrees for all sin, cos, and tan equations. Classical GUI interface including a buttons for the equals sign, numbers 0-9, and the following operators (+, -, /, * , sin, cos, tan, √, ∛, π, a3 )</td>
 <td><ul><li>HTML5</li></ul> <ul><li>CSS3</li></ul> <ul><li>JavaScript</li></ul></td>
 </tr>
   <tr>
