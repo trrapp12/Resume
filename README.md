@@ -89,8 +89,7 @@ Current Code Examples working with GTM:
   
   <summary> JavaScript to write dynamic HTML script tag </summary>
 
-```javascript
-
+<pre><code>
 (function () {
   // define function
   function addScript() {
@@ -121,7 +120,7 @@ Current Code Examples working with GTM:
     // Note - error messages will vary depending on browser
   }
 })()
-```
+</code></pre>
   
 </details>
 
