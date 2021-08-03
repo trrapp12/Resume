@@ -18,7 +18,7 @@
 <tr>
 <td markdown="span">[Sundae Worship](https://trrapp12.github.io/Sundae-Worship/)</td>
 <td markdown="span">A website that demonstrates HTLM5, CSS3, CSS Grid, JavaScript, NodeJS, ExpressJS, Git commits, Github repository, responsive design, ADA compliance, GDPR cookies, GET and POST requests, MVC architecture.</td>
-  <td> <img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"><ul><li>HTML5</li></ul> <ul><li>CSS3</li></ul> <ul><li>JavaScript</li></ul> <ul><li>ExpressJS</li></ul> <ul><li>NodeJS</li></ul> </td>
+  <td> <img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"> <ul><li>ExpressJS</li></ul> <ul><li>NodeJS</li></ul> </td>
 </tr>
   <tr>
 <td markdown="span">[UTIN-SLAA](https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/)</td>
