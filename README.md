@@ -86,6 +86,7 @@
 Current Code Examples working with GTM: 
 
 <details>
+  
   <summary> JavaScript to write dynamic HTML script tag </summary>
 
 ```javascript
@@ -125,6 +126,7 @@ Current Code Examples working with GTM:
 </details>
 
 <details>
+  
   <summary>JavaScript to scrape dataLayer for an "orderUpdated" Event, then retrieve the amount</summary>
   
   ```javascript
@@ -140,12 +142,15 @@ Current Code Examples working with GTM:
   return c[0]["orderTotals"].pointsUsed;
 }
 ```
+                         
 </details>
 
 <details>
+  
   <summary>JavaScript "Normalizer" (takes the action from a GTM tag and normalizes the capitalization)</summary>
   
   ```javascript
+  
   function () {
   if(window.google_tag_manager["GTM-TWJS4J3"]) {
     var a = window.google_tag_manager["GTM-TWJS4J3"].dataLayer.get("context");
@@ -168,9 +173,11 @@ Current Code Examples working with GTM:
   }
 }
 ```
+  
 </details>
 
 <details>
+  
   <summary>Button Click Event Listener that functions even through a shadowRoot </summary>
 
 ```javascript 
@@ -195,22 +202,28 @@ Current Code Examples working with GTM:
   }
 })();
 ```
+                                 
 </details>
 
 <details>
+  
   <summary>IFFE statement that logs user tier into Local Storage </summary>
   
   ```javascript
+  
   (function() {
     return JSON.parse(JSON.parse(JSON.stringify(localStorage.loyaltyData))).userTier.name
   })();
   ```
+  
 </details>
 
 <details>
+  
   <summary>Listener to check if radio is checked</summary>
   
   ```javascript 
+  
 (function (){
 
   var parent = document.getElementsByClassName('create-invite-radio-group');
@@ -248,12 +261,15 @@ Current Code Examples working with GTM:
 
 })()
 ```
+  
 </details>
 
 <details>
+  
   <summary>Listener to Get Elapsed Time</summary>
   
   ```javascript 
+  
 (function () {
 var startTime = new Date().getTime();
 var paymentSection = document.getElementById('checkout-edit-payment');
@@ -313,12 +329,15 @@ window.dataLayer.push({
 });
 })();
 ```
+  
 </details>
 
 <details>
+  
   <summary>Dynamically detect country code in url to determine which external ID entry to pull from local Storage</summary>
   
   ```javascript
+  
   (function () {
   var url = window.location.href;
   var countryCodeRegEx = /[a-z]{2}_[A-Z]{2}/ ;
@@ -329,12 +348,15 @@ window.dataLayer.push({
   return a[0].externalId; 
 })()
 ```
+  
 </details>
 
 <details>
+  
   <summary>IFFE to change camelCase to TitleCase</summary>
   
   ```javascript
+  
   (function () {
   // var eventName = {{Event}};
   var eventName = "skinConsult"
@@ -361,5 +383,6 @@ window.dataLayer.push({
 
 })();
 ```
+                                              
 </details>
 
