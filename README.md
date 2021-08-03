@@ -104,13 +104,13 @@
 <br/><br/>
 
 
-<img src="https://user-images.githubusercontent.com/11747875/127969005-e786be85-e244-4ab4-8e6d-ca1c2d5446dc.png" alt="Logo" style="width: 100%">
+<img src="https://user-images.githubusercontent.com/11747875/127969005-e786be85-e244-4ab4-8e6d-ca1c2d5446dc.png" alt="Logo" class="gtm">
 
 <details>
   <summary>GTM Scripting and Function Examples</summary>
   
 <details>
-  
+  <br/>
   <summary> JavaScript to write dynamic HTML script tag </summary>
 
 <pre><code class="language-javascript">
