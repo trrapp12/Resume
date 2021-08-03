@@ -20,62 +20,62 @@
 <tr>
 <td markdown="span">[Sundae Worship](https://trrapp12.github.io/Sundae-Worship/)</td>
 <td markdown="span">A website that demonstrates HTLM5, CSS3, CSS Grid, JavaScript, NodeJS, ExpressJS, Git commits, Github repository, responsive design, ADA compliance, GDPR cookies, GET and POST requests, MVC architecture.</td>
-  <td> <img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"> <img src="https://user-images.githubusercontent.com/11747875/127971618-e7dc5736-ceec-47fa-9f2f-21584b0feb03.jpg" alt="Logo"> </td>
+  <td> <img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"> <img src="https://user-images.githubusercontent.com/11747875/127971618-e7dc5736-ceec-47fa-9f2f-21584b0feb03.jpg" alt="Logo" class="chart-images"> </td>
 </tr>
   <tr>
 <td markdown="span">[UTIN-SLAA](https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/)</td>
 <td markdown="span">Free-lance work completed for local 501-3(c) </td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"><img src="https://user-images.githubusercontent.com/11747875/127972521-629a523c-ec4e-4f8f-ae14-297a987093e9.png" alt="Logo"> </td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"><img src="https://user-images.githubusercontent.com/11747875/127972521-629a523c-ec4e-4f8f-ae14-297a987093e9.png" alt="Logo" class="chart-images"> </td>
 </tr>
   <tr>
 <td markdown="span">[Utah Dermagraphics](https://trrapp12.github.io/utahdermagraphics/)</td>
 <td markdown="span"> Free-lance work done to improve a local business owners website.</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
 <td markdown="span">[Recipe Organizer](http://trrapp12.github.io/recipe_organizer/)</td>
 <td markdown="span">Final Project that included CRUD functionality. Users collect, sort, organize, and browse recipes; upload photos; and sort and retrieve recipes by name or ingredient type.</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"> <img src="https://user-images.githubusercontent.com/11747875/127972659-5e6e779e-3af6-4b1f-9542-a825ccc2e4d1.png" alt="Logo"> <img src="https://user-images.githubusercontent.com/11747875/127972806-2809eead-6cd1-423b-802c-201c3cdc073e.png" alt="Logo"></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"> <img src="https://user-images.githubusercontent.com/11747875/127972659-5e6e779e-3af6-4b1f-9542-a825ccc2e4d1.png" alt="Logo" class="chart-images"> <img src="https://user-images.githubusercontent.com/11747875/127972806-2809eead-6cd1-423b-802c-201c3cdc073e.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
 <td markdown="span">[Agents of Shield Directory](http://trrapp12.github.io/avengers_agents_of_shield_directory/)</td>
 <td markdown="span">Utilizes the concept of modules to create more readable and manageable code that applies DRY principles. Utilizes MVC/MVW architecture.  Creates three different controllers that receive user input and makes calls to model objects and the view to perform appropriate actions. Creates a module that uses ng-route and $routeProvider to direct the consumer to the appropriate urls and views. Uses $http to read a JSON object. Filters content using directives. Uses two-way data binding to make queries. Uses deep-linking to navigate through views. </td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"></ul></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></ul></td>
 </tr>
   <tr>
 <td markdown="span">[Calculator](https://trrapp12.github.io/refactored-calculator/)</td>
 <td markdown="span">Calculator which preforms math on multiple integers; preforms simple arithmatic to advanced functions like sin, cos, tan, √, ∛, π, a3.  Switches between radian and degrees for all sin, cos, and tan equations. Classical GUI interface including a buttons for the equals sign, numbers 0-9, and the following operators (+, -, /, * , sin, cos, tan, √, ∛, π, a3 )</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
 <td markdown="span">[Slap-Happy](https://trrapp12.github.io/Slap-Happy/)</td>
 <td markdown="span">Correctly applies functions, conditionals, loops, arrays.  Properly sequences JavaScript statements. Changes the DOM based on application state (win/loss, valid/invalid guess). Selects a random word from a dictionary of words. Displays all previous guesses on the user's screen, avisual indication for each letter's placement in the word, and the number of turns remaining. Decrements the number of turns remaining. Includes a GitHub Repo url, containing an index.html, one or more CSS files, one or more JavaScript files (e.g. js/main.js).</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
 <td markdown="span">[KONAMI](https://trrapp12-ironyard.github.io/konami/)</td>
 <td markdown="span">Basic keystroke listener which listens to keys pushed and displays them to the screen, but with a cool KONAMI easter-egg.</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
 <td markdown="span">[wk-01-alpha](https://help.github.com/articles/page-build-failed-tag-not-properly-terminated/)</td>
 <td markdown="span">A cool landing page with a tribute to all things fast.</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
 <td markdown="span">[Parallax Example](http://trrapp12.github.io/parallax-example/)</td>
 <td markdown="span">Integrates a parallax library to do some awesome interaction with mouse movement and parallax</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"> <img src="https://user-images.githubusercontent.com/11747875/127972842-24ec0f78-324a-463b-8b9d-348a75a78568.png" alt="Logo"></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"> <img src="https://user-images.githubusercontent.com/11747875/127972842-24ec0f78-324a-463b-8b9d-348a75a78568.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
 <td markdown="span">[CSS/JS Clock](https://trrapp12-ironyard.github.io/CSS_JS_clock/)</td>
 <td markdown="span">Uses CSS and Javascript to get current time and convert it into an analog clock display with animation.</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo"></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
 <td markdown="span">[Flex-Box](https://trrapp12-ironyard.github.io/flex-box/)</td>
 <td markdown="span">Simple demonstration of flex-box CSS.</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127972877-7e3bc350-2954-45f6-9432-73a51c3a2cbc.png" alt="Logo"></td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127972877-7e3bc350-2954-45f6-9432-73a51c3a2cbc.png" alt="Logo" class="chart-images"></td>
 </tr>
 </tbody>
 </table>
