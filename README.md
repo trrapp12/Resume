@@ -1,4 +1,4 @@
-
+<img src="" alt="Logo">
 
 <table>
 <colgroup>
