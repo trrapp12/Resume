@@ -124,7 +124,7 @@ Current Code Examples working with GTM:
 </code></pre>
   
 </details>
-
+<br/><br/>
 <details>
   
   <summary>JavaScript to scrape dataLayer for an "orderUpdated" Event, then retrieve the amount</summary>
@@ -144,7 +144,7 @@ Current Code Examples working with GTM:
 </code></pre>
                          
 </details>
-
+<br/><br/>
 <details>
   
   <summary>JavaScript "Normalizer" (takes the action from a GTM tag and normalizes the capitalization)</summary>
@@ -174,7 +174,7 @@ Current Code Examples working with GTM:
 </code></pre>
   
 </details>
-
+<br/><br/>
 <details>
   
   <summary>Button Click Event Listener that functions even through a shadowRoot </summary>
@@ -202,7 +202,7 @@ Current Code Examples working with GTM:
 </code></pre>
                                  
 </details>
-
+<br/><br/>
 <details>
   
   <summary>IFFE statement that logs user tier into Local Storage </summary>
@@ -214,7 +214,7 @@ Current Code Examples working with GTM:
 </code></pre>
   
 </details>
-
+<br/><br/>
 <details>
   
   <summary>Listener to check if radio is checked</summary>
@@ -259,7 +259,7 @@ Current Code Examples working with GTM:
 </code></pre>
   
 </details>
-
+<br/><br/>
 <details>
   
   <summary>Listener to Get Elapsed Time</summary>
@@ -326,7 +326,7 @@ window.dataLayer.push({
 </code></pre>
   
 </details>
-
+<br/><br/>
 <details>
   
   <summary>Dynamically detect country code in url to determine which external ID entry to pull from local Storage</summary>
@@ -344,7 +344,7 @@ window.dataLayer.push({
 </code></pre>
   
 </details>
-
+<br/><br/>
 <details>
   
   <summary>IFFE to change camelCase to TitleCase</summary>
