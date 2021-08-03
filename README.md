@@ -106,12 +106,7 @@
 
 <img src="https://user-images.githubusercontent.com/11747875/127969005-e786be85-e244-4ab4-8e6d-ca1c2d5446dc.png" alt="Logo" class="gtm">
 
-<details>
-  <summary>GTM Scripting and Function Examples</summary>
-  
-<details>
-  <br/>
-  <summary> JavaScript to write dynamic HTML script tag </summary>
+<p>JavaScript to write dynamic HTML script tag</p>
 
 <pre><code class="language-javascript">
 (function () {
@@ -145,9 +140,11 @@
   }
 })()
 </code></pre>
+
+<details>
+  <summary>MORE GTM SCRIPTING EXAMPLES</summary>
   
-</details>
-<br/>
+
 <details>
   
   <summary>JavaScript to scrape dataLayer for an "orderUpdated" Event, then retrieve the amount</summary>
