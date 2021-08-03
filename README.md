@@ -406,14 +406,13 @@ window.dataLayer.push({
   <p>REGEX EXAMPLES</p>
 <br/>
  <p>Capturing a country and language code from a url</p>
-<br/>
  <pre><code> /\/[a-z]{2}_[A-Z]{2}\//g </code></pre>
+  <br/>
  <p>capturing any url that ends in "you"</p>
-<br/>
  <pre><code> /.*\/(you)$/ </code></pre>
+  <br/>
  <p>capturing the first word of any camel cased word</p>
-<br/>
  <pre><code> /(^[a-z]{1,})/g </code></pre>
+  <br/>
  <p>capturing the product id from a url</p>
-<br/>
  <pre><code> [0-9]{8} </code></pre>
