@@ -5,7 +5,7 @@
 
 https://www.codewars.com/users/trrapp12/badges/large
 
-https://www.linkedin.com/in/trevor-rapp/
+[LinkedIn Profile](https://www.linkedin.com/in/trevor-rapp/)
 
 <table>
 <colgroup>
