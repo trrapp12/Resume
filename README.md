@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/11747875/127963917-0cfaf52d-37c3-4f5b-9b19-95e4012b538e.jpg" alt="Logo">
 
 
-https://www.codewars.com/users/trrapp12/badges/large
+<a href="https://www.codewars.com/users/trrapp12/badges/large"></a>
 
 [LinkedIn Profile](https://www.linkedin.com/in/trevor-rapp/)
 
