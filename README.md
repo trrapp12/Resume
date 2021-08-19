@@ -100,10 +100,17 @@
 <td markdown="span">Simple demonstration of flex-box CSS.</td>
 <td><img src="https://user-images.githubusercontent.com/11747875/127972877-7e3bc350-2954-45f6-9432-73a51c3a2cbc.png" alt="Logo" class="chart-images"></td>
 </tr>
+ <tr>
+<td markdown="span">[Iron Yard Class 2016 Group Project](https://fee-slc-2016.github.io/tiy-slc-fee-2016/)</td>
+<td markdown="span">Project requirements were to complete a project divided into multiple teams without the ability to communicate except through 'issue' statements and commits on Github</td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127972877-7e3bc350-2954-45f6-9432-73a51c3a2cbc.png" alt="Logo" class="chart-images"></td>
+</tr>
 </tbody>
 </table>
   
 </details>
+
+
 <br/><br/>
 
 
