@@ -37,8 +37,13 @@
 <td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
     <tr>
-<td markdown="span">[Python Hangman](http://trrapp12.github.io/hang_man/)</td>
+<td markdown="span">[Python Hangman](https://trrapp12.github.io/hang_man/)</td>
 <td markdown="span">Python script with fully functioning Hangman game played from the command line.</td>
+<td><img src="https://user-images.githubusercontent.com/11747875/130170450-e130eea0-788f-4eaf-81fd-59564cf2ed19.png" alt="Logo" class="chart-images"></td>
+</tr>
+      <tr>
+<td markdown="span">[Object Oriented Python Hangman](https://github.com/trrapp12/object_oriented_hangman/)</td>
+<td markdown="span">Took the previous project and re-imagined it as an OOP (Object Oriented Python) project.  </td>
 <td><img src="https://user-images.githubusercontent.com/11747875/130170450-e130eea0-788f-4eaf-81fd-59564cf2ed19.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
