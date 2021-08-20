@@ -36,6 +36,11 @@
 <td markdown="span"> Free-lance work done to improve a local business owners website.</td>
 <td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
+    <tr>
+<td markdown="span">[Python Hangman](http://trrapp12.github.io/hang_man/)</td>
+<td markdown="span">Python script with fully functioning Hangman game played from the command line.</td>
+<td><img src="https://user-images.githubusercontent.com/11747875/130170450-e130eea0-788f-4eaf-81fd-59564cf2ed19.png" alt="Logo" class="chart-images"></td>
+</tr>
   <tr>
 <td markdown="span">[Recipe Organizer](http://trrapp12.github.io/recipe_organizer/)</td>
 <td markdown="span">Final Project that included CRUD functionality. Users collect, sort, organize, and browse recipes; upload photos; and sort and retrieve recipes by name or ingredient type.</td>
