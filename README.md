@@ -54,6 +54,8 @@
   </tbody>
 </table>
   
+
+  
   <details>
   <summary class="center"> MORE CODING PROJECTS </summary>
   <table>
@@ -76,8 +78,13 @@
 <td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
-<td markdown="span">[Calculator](https://trrapp12.github.io/refactored-calculator/)</td>
+<td markdown="span">[Calculator v2.0](https://trrapp12.github.io/refactored-calculator/)</td>
 <td markdown="span">Calculator which preforms math on multiple integers; preforms simple arithmatic to advanced functions like sin, cos, tan, √, ∛, π, a3.  Switches between radian and degrees for all sin, cos, and tan equations. Classical GUI interface including a buttons for the equals sign, numbers 0-9, and the following operators (+, -, /, * , sin, cos, tan, √, ∛, π, a3 )</td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
+</tr>
+    <tr>
+<td markdown="span">[Calculator v1.0](https://github.com/trrapp12-ironyard/calculator)</td>
+<td markdown="span"> Demonstrates use of an IFFE function, use of multiple functions working as a script, use of hoisting, use of parameters, use of prompt() to get user input, use of === as a strict equality operator, use of 'let' as a block scope variable</td>
 <td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
