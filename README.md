@@ -135,7 +135,7 @@
 
 <h3>EXAMPLE SCRIPTS AND FUNCTIONS I BUILT IN GOOGLE TAG MANAGER</h3>
 <br/>
-<p>JavaScript IFFE dynamically writes HTML script tag</p>
+<p>JavaScript IFFE dynamically writes HTML script tag and appends it to the DOM.  Great use case for when you have to insert an GTM Script tag that needs to be the last tag executed in the DOM</p>
 
 <pre><code class="language-javascript">
 (function () {
@@ -168,6 +168,40 @@
     // Note - error messages will vary depending on browser
   }
 })()
+</code></pre>
+<br/>
+<p>GTM tag checking for the presence of a Qualtrics Cookie, reads current state of the cookie, and removes scripts and/or buttons on survey accordingly</p>
+
+<pre><code class="language-javascript">
+<script>(function() {
+  // grab cookie, split it into an array, setup initial counter, grab Qualtrics scripts, grab Qualtrics button elements
+  var cookieData = document.cookie;
+  var cookieSplit = cookieData.split(";");
+  var scripts = document.querySelectorAll('script[src]');
+  var button = document.getElementsByClassName('QSIFeedbackButton');
+  var state = 0;
+
+
+  //this creates a javascript object which returns four functions which can then be referred to in dot notation for ease of reference
+
+  var QualtricsModifier = (function QualtricModifierIFFE() {
+
+    return {
+      checkForCookies : function (cookieSplit) {for (i = 0; i < cookieSplit.length; i++) { console.log("enter for loop step 2"); if (cookieSplit[i].includes('nofeedback=true')) {console.log('nofeedback cookie set to true, testing in progress, no longer firing qualtrics site intercept function'); return;} else {state +=1; console.log('cookie not set. state = ' + state );}; }; console.log("at return statement state is : " + state); return state;},
+      currentStates : function () { console.log("enter current state step 3. state is:" + state); if (state > 0) { console.log('final step: fire dataLayer'); dataLayer.push({'event' : 'cookieTrue', 'data1' : state}); }; },
+      removeScripts : function (nodeList) { console.log('entered function'); console.log(nodeList); for (i = 0; i < nodeList.length; i++) {if (nodeList[i].src.includes('qualtrics') == true) {nodeList[i].setAttribute('id','turnOff');nodeList[i].parentNode.removeChild(turnOff);} else { console.log('didnt do anything');}}},
+      removeButtons : function (el) { for (i = 0; i < el.length; i++) { el[i].setAttribute('id','turnOff'); el[i].parentNode.removeChild(turnOff); }}
+    };
+  })();
+
+//the order of this is important checkforCookie > currentStates > removeScripts > removeButtons
+  QualtricsModifier.checkForCookies(cookieSplit);
+  QualtricsModifier.currentStates();
+  QualtricsModifier.removeScripts(scripts);
+  QualtricsModifier.removeButtons(button);
+
+})();
+</script>
 </code></pre>
 
 <details>
@@ -311,7 +345,7 @@
 <br/>
 <details>
   
-  <summary>Event Listener gets Elapsed Time</summary>
+  <summary>Event Listener gets Elapsed Time for Checkout Process</summary>
   
 <pre><code class="language-javascript">
 (function () {
@@ -396,7 +430,7 @@ window.dataLayer.push({
 <br/>
 <details>
   
-  <summary>IFFE to change camelCase to TitleCase</summary>
+  <summary>Function that normalizes output in GTM from camelcase to Title Case</summary>
   
 <pre><code class="language-javascript">
   (function () {
@@ -440,9 +474,11 @@ window.dataLayer.push({
  <p>capturing any url that ends in "you"</p>
  <pre><code> /.*\/(you)$/ </code></pre>
   <br/>
- <p>capturing the first word of any camel cased word</p>
+ <p>capturing the first word of any camel cased word and then capturing the next word after it</p>
  <pre><code> /(^[a-z]{1,})/g </code></pre>
+  <pre><code>/[A-Z](?<=[A-Z])[a-z]*/</code></pre>
   <br/>
+  
  <p>capturing the product id from a url</p>
  <pre><code> [0-9]{8} </code></pre>
 <br/>
