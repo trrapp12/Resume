@@ -203,7 +203,50 @@
 })();
 </script>
 </code></pre>
+<br/>
+<p>Custom GTM HTML Script creates dataLayer push event according to which radio button is pushed.</p>
 
+<pre><code class="language-javascript">
+<script>
+(function (){
+
+  var parent = document.getElementsByClassName('create-invite-radio-group');
+  var group = document.getElementsByClassName("ns-radio");
+  var left = group[0];
+  var middle = group[1];
+  var right = group[2]
+  
+  parent[0].addEventListener('click', function() {
+    if (left.classList.contains("checked")) {
+      console.log('left checked')
+      dataLayer.push({
+        'event': 'linkTypeSelected',
+        'data' : 'customer'
+      })
+    }
+    else if (middle.classList.contains("checked")) {
+      console.log('middle checked')
+      dataLayer.push({
+        'event': 'linkTypeSelected',
+        'data' : 'Member'
+      })
+    }
+    else if (right.classList.contains("checked")) {
+      console.log('right checked')
+      dataLayer.push({
+        'event': 'linkTypeSelected',
+        'data' : 'Brand Affiliate'
+      })
+    }
+    else {
+      console.log('none checked')
+    }
+  })
+
+})()
+
+</script>
+</code></pre>
 <details>
   <summary class="center">  <p>MORE GTM SCRIPTING EXAMPLES</p></summary>
   
