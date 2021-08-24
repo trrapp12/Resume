@@ -173,7 +173,7 @@
 <p>GTM tag checking for the presence of a Qualtrics Cookie, reads current state of the cookie, and removes scripts and/or buttons on survey accordingly</p>
 
 <pre><code class="language-javascript">
-<script>(function() {
+(function() {
   // grab cookie, split it into an array, setup initial counter, grab Qualtrics scripts, grab Qualtrics button elements
   var cookieData = document.cookie;
   var cookieSplit = cookieData.split(";");
@@ -201,13 +201,13 @@
   QualtricsModifier.removeButtons(button);
 
 })();
-</script>
+
 </code></pre>
 <br/>
 <p>Custom GTM HTML Script creates dataLayer push event according to which radio button is pushed.</p>
 
 <pre><code class="language-javascript">
-<script>
+
 (function (){
 
   var parent = document.getElementsByClassName('create-invite-radio-group');
@@ -245,7 +245,7 @@
 
 })()
 
-</script>
+
 </code></pre>
 <details>
   <summary class="center">  <p>MORE GTM SCRIPTING EXAMPLES</p></summary>
