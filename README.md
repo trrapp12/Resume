@@ -78,6 +78,11 @@
 <td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
+<td markdown="span">[Slap-Happy](https://trrapp12.github.io/Slap-Happy/)</td>
+<td markdown="span">Correctly applies functions, conditionals, loops, arrays.  Properly sequences JavaScript statements. Changes the DOM based on application state (win/loss, valid/invalid guess). Selects a random word from a dictionary of words. Displays all previous guesses on the user's screen, avisual indication for each letter's placement in the word, and the number of turns remaining. Decrements the number of turns remaining. Includes a GitHub Repo url, containing an index.html, one or more CSS files, one or more JavaScript files (e.g. js/main.js).</td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
+</tr>
+  <tr>
 <td markdown="span">[Calculator v2.0](https://trrapp12.github.io/refactored-calculator/)</td>
 <td markdown="span">Calculator which preforms math on multiple integers; preforms simple arithmatic to advanced functions like sin, cos, tan, √, ∛, π, a3.  Switches between radian and degrees for all sin, cos, and tan equations. Classical GUI interface including a buttons for the equals sign, numbers 0-9, and the following operators (+, -, /, * , sin, cos, tan, √, ∛, π, a3 )</td>
 <td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
@@ -85,11 +90,6 @@
     <tr>
 <td markdown="span">[Calculator v1.0](https://github.com/trrapp12-ironyard/calculator)</td>
 <td markdown="span"> Demonstrates use of an IFFE function, use of multiple functions working as a script, use of hoisting, use of parameters, use of prompt() to get user input, use of === as a strict equality operator, use of 'let' as a block scope variable</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
-</tr>
-  <tr>
-<td markdown="span">[Slap-Happy](https://trrapp12.github.io/Slap-Happy/)</td>
-<td markdown="span">Correctly applies functions, conditionals, loops, arrays.  Properly sequences JavaScript statements. Changes the DOM based on application state (win/loss, valid/invalid guess). Selects a random word from a dictionary of words. Displays all previous guesses on the user's screen, avisual indication for each letter's placement in the word, and the number of turns remaining. Decrements the number of turns remaining. Includes a GitHub Repo url, containing an index.html, one or more CSS files, one or more JavaScript files (e.g. js/main.js).</td>
 <td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
@@ -103,9 +103,9 @@
 <td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
-<td markdown="span">[Parallax Example](http://trrapp12.github.io/parallax-example/)</td>
-<td markdown="span">Integrates a parallax library to do some awesome interaction with mouse movement and parallax</td>
-<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"> <img src="https://user-images.githubusercontent.com/11747875/127972842-24ec0f78-324a-463b-8b9d-348a75a78568.png" alt="Logo" class="chart-images"></td>
+<td markdown="span">[CountDownTimer](https://trrapp12.github.io/CountDownTimer/)</td>
+<td markdown="span">A JavaScript count-down timer for boxing that demonstrates functions, loops, eventlisteners, queryselectors, template literals and placeholders.</td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
 <td markdown="span">[CSS/JS Clock](https://trrapp12-ironyard.github.io/CSS_JS_clock/)</td>
@@ -113,6 +113,11 @@
 <td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"></td>
 </tr>
   <tr>
+<td markdown="span">[Parallax Example](http://trrapp12.github.io/parallax-example/)</td>
+<td markdown="span">Integrates a parallax library to do some awesome interaction with mouse movement and parallax</td>
+<td><img src="https://user-images.githubusercontent.com/11747875/127970843-6882c47b-6459-45ae-9d91-621a666bf672.png" alt="Logo" class="chart-images"> <img src="https://user-images.githubusercontent.com/11747875/127972842-24ec0f78-324a-463b-8b9d-348a75a78568.png" alt="Logo" class="chart-images"></td>
+</tr>
+ <tr>
 <td markdown="span">[Flex-Box](https://trrapp12-ironyard.github.io/flex-box/)</td>
 <td markdown="span">Simple demonstration of flex-box CSS.</td>
 <td><img src="https://user-images.githubusercontent.com/11747875/127972877-7e3bc350-2954-45f6-9432-73a51c3a2cbc.png" alt="Logo" class="chart-images"></td>
